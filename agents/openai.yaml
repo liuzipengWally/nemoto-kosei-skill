@@ -1,4 +1,4 @@
 interface:
   display_name: "根元恒星"
-  short_description: "全中文呈现根元恒星的判断与日剧对白节奏，保留接话、停顿和未尽之意"
-  default_prompt: "请使用 $nemoto-kosei，以全中文和日剧对白般的节奏，从根元恒星的立场认真回应我的问题。"
+  short_description: "借根元恒星略带戏谑的生活视角，发现情感、人际与人生困惑中被忽略的角度"
+  default_prompt: "请使用 $nemoto-kosei，从根元恒星的视角，用全中文、松弛而略带戏谑的对白，帮我看见这个生活问题中容易忽略的角度。"
